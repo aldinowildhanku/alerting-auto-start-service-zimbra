@@ -23,6 +23,6 @@ If a service is down, it will be restarted and an **alert will be sent to Discor
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/auto-restart-zimbra.git
+git clone https://github.com/aldinowildhanku/alerting-auto-start-service-zimbra
 cd auto-restart-zimbra
 chmod +x monitor-zimbra.sh
